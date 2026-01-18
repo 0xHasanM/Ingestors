@@ -245,7 +245,7 @@ For issues or questions about specific forensic tools, please refer to their off
 - [ArtiFast](https://forensafe.com/artifast/)
 - [Cyber Triage](https://www.cybertriage.com/)
 - [Hayabusa](https://github.com/Yamato-Security/hayabusa)
-- [KAPE](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape)
+- [KAPE](https://www.kroll.com/kape)
 
 ## License
 
